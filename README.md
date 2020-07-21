@@ -1,3 +1,4 @@
-#Record of HTML canvas
+# Record of HTML canvas
 
-*gravity canvas
+Learn how to use canvas to draw image in html
+* gravity canvas
