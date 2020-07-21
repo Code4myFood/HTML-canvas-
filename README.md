@@ -6,3 +6,4 @@ List of canvas testing:
 * canvas gravity
 * canvas resize
 * mousemove trail
+* try canvas image
