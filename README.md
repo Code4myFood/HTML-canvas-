@@ -1,6 +1,6 @@
 # Record of HTML canvas
 
-Learn how to use canvas to draw image in html
+A try in using canvas
 
 List of canvas testing:
 * canvas gravity
